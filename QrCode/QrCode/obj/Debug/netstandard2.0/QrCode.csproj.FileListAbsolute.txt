@@ -1,0 +1,15 @@
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\bin\Debug\netstandard2.0\QrCode.deps.json
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\bin\Debug\netstandard2.0\QrCode.dll
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\bin\Debug\netstandard2.0\ref\QrCode.dll
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\bin\Debug\netstandard2.0\QrCode.pdb
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.csproj.AssemblyReference.cache
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.AssemblyInfoInputs.cache
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.AssemblyInfo.cs
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.csproj.CoreCompileInputs.cache
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.dll
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\ref\QrCode.dll
+C:\Users\ryto0\source\repos\QrCode\QrCode\QrCode\obj\Debug\netstandard2.0\QrCode.pdb
